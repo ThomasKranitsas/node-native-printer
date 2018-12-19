@@ -6,7 +6,7 @@ module.exports = function(){
 		console.log("Found electron-edge!\n");
 		makeEnv(true, 'electron-edge');
 	}
-	else if(fs.existsSync(__dirname + "/../../electron-edge")){
+	else if(fs.existsSync(__dirname + "/../../electron-edge-js")){
 		console.log("Found electron-edge-js!\n");
 		makeEnv(true, 'electron-edge-js');
 	}
