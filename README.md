@@ -2,6 +2,11 @@
 
 A node module to natively print your files
 
+## Difference from the original repo
+
+- Supports [edge-js](https://github.com/agracio/edge-js)
+- Supports [electron-edge-js](https://github.com/agracio/electron-edge-js)
+
 ## Requirements
 
 * ### Windows:
